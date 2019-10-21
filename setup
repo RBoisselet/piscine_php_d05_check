@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd piscine_php_d05_check
+
 [ ! -f 'sql_test_dir' ] &&  mkdir sql_test_dir
 [ ! -f 'sql_test_dir/error' ] &&  mkdir sql_test_dir/errors
 
