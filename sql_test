@@ -2,8 +2,11 @@
 login=$1
 password=$2
 user=$3
+
 [ ! -f 'sql_test_dir' ] &&  mkdir sql_test_dir
 [ ! -f 'sql_test_dir/error' ] &&  mkdir sql_test_dir/errors
+mv ref sql_test_dir/
+
 ex=$(find . -regex '\./ex[0-9]*/ex[0-9].*' | cut -d'/' -f2,3 \
 	| grep -v 'ex0[0-5]')
 for i in $ex
