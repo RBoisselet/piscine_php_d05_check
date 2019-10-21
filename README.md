@@ -1,3 +1,5 @@
+Compares the output of your commands with mine (absolutely no guarantee that mine are correct or better, I'd like to know it if it's the case by the way).
+
 ## Requirements
 You must have set your path to the right mysqli.bin
 
