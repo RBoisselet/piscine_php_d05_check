@@ -1,6 +1,7 @@
 ## Requirements
 You must have set your path to the right mysqli.bin
 
+## Usage
 
 ```bash
 git clone ssh://git@git.42l.fr:42084/rboisselet/piscine_php_d05_check.git && piscine_php_d05_check/setup
