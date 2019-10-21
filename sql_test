@@ -1,0 +1,14 @@
+#!/bin/bash
+login=$1
+password=$2
+user=$3
+[ ! -f 'sql_test_dir' ] &&  mkdir sql_test_dir
+[ ! -f 'sql_test_dir/error' ] &&  mkdir sql_test_dir/errors
+ex=$(find . -regex '\./ex[0-9]*/ex[0-9].*' | cut -d'/' -f2,3 \
+	| grep -v 'ex0[0-5]')
+for i in $ex
+do
+	filename=$(echo $i | cut -d'/' -f2)
+	query=$(cat $i) ; mysql -u $login -p$password -D db_$user -B -e "$query" > sql_test_dir/$filename.out 2> sql_test_dir/errors/$filename.error
+	echo $(diff sql_test_dir/$filename.out sql_test_dir/ref/$filename.out.ref)
+done
