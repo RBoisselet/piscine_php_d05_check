@@ -8,6 +8,9 @@ ex=$(find . -regex '\./ex[0-9]*/ex[0-9].*' | cut -d'/' -f2,3 \
 for i in $ex
 do
 	filename=$(echo $i | cut -d'/' -f2)
-	query=$(cat $i) ; mysql -u $login -p$password -D db_$user -B -e "$query" > sql_test_dir/$filename.out 2> sql_test_dir/errors/$filename.error
+	query=$(cat $i) ; mysql -u $login -p$password -D db_$user -B -e "$query" > \
+		sql_test_dir/$filename.out \
+		2> sql_test_dir/errors/$filename.error
+	echo $(cat piscine_php_d05_check/sql_test_dir/errors/$filename.error)
 	echo $(diff sql_test_dir/$filename.out sql_test_dir/ref/$filename.out.ref)
 done
