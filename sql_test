@@ -11,6 +11,7 @@ do
 	query=$(cat $i) ; mysql -u $login -p$password -D db_$user -B -e "$query" > \
 		piscine_php_d05_check/sql_test_dir/$filename.out \
 		2> piscine_php_d05_check/sql_test_dir/errors/$filename.error
+	echo 'ex:\t'$filename
 	echo $(cat piscine_php_d05_check/sql_test_dir/errors/$filename.error)
 	echo $(diff piscine_php_d05_check/sql_test_dir/$filename.out \
 		piscine_php_d05_check/sql_test_dir/ref/$filename.out.ref)
