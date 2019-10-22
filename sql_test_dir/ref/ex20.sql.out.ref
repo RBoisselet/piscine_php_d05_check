@@ -1,0 +1,138 @@
+id_genre	name_genre	id_distrib	name_distrib	title_film
+4	documentary	NULL	NULL	Roger and Me
+4	documentary	NULL	NULL	Microcosmos
+4	documentary	NULL	NULL	East Side Story
+4	documentary	NULL	NULL	The Mysteries of Egypt
+4	documentary	NULL	NULL	Into the Deep
+5	animation	NULL	NULL	The Witches
+5	animation	NULL	NULL	Akira
+5	animation	NULL	NULL	FernGully: The Last Rainforest
+5	animation	NULL	NULL	The Nightmare Before Christmas
+5	animation	NULL	NULL	Aladdin
+5	animation	NULL	NULL	Ghost in the Shell
+5	animation	NULL	NULL	The Swan Princess
+5	animation	NULL	NULL	Babe
+5	animation	NULL	NULL	Toy Story
+5	animation	NULL	NULL	James and the Giant Peach
+5	animation	NULL	NULL	A Goofy Movie
+5	animation	NULL	NULL	Hercule
+5	animation	NULL	NULL	Anastasia
+5	animation	NULL	NULL	Star Kid
+5	animation	NULL	NULL	The Little Mermaid
+5	animation	NULL	NULL	Barney's Great Adventure
+5	animation	NULL	NULL	Quest for Camelot
+5	animation	NULL	NULL	Antz
+5	animation	NULL	NULL	The Prince of Egypt
+5	animation	NULL	NULL	A Bug's Life
+6	comedy	NULL	NULL	Pretty Woman
+6	comedy	NULL	NULL	The Jetsons
+6	comedy	NULL	NULL	Asterix and the Big Fight
+6	comedy	NULL	NULL	Home Alone
+6	comedy	NULL	NULL	Curly Sue
+6	comedy	NULL	NULL	Hear my song
+6	comedy	NULL	NULL	Strictly Ballroom
+6	comedy	NULL	NULL	Delicatessen
+6	comedy	NULL	NULL	Home Alone 2
+6	comedy	NULL	NULL	Much Ado about Nothing
+6	comedy	NULL	NULL	The Muppet Christmas Carol
+6	comedy	NULL	NULL	Four Weddings and a Funeral
+6	comedy	NULL	NULL	The Flintstones
+6	comedy	NULL	NULL	Lovers Will Walk Off with the Bride
+6	comedy	NULL	NULL	The Little Rascals
+6	comedy	NULL	NULL	Clerks
+6	comedy	NULL	NULL	Casper
+6	comedy	NULL	NULL	Clueless
+6	comedy	NULL	NULL	Contempt
+6	comedy	NULL	NULL	Kingpin
+6	comedy	NULL	NULL	The Nutty Professor
+6	comedy	NULL	NULL	101 Dalmatians
+6	comedy	NULL	NULL	Space Jam
+6	comedy	NULL	NULL	Liar Liar
+6	comedy	NULL	NULL	Bean
+6	comedy	NULL	NULL	My Best Friend's Wedding
+6	comedy	NULL	NULL	Shooting fish
+6	comedy	NULL	NULL	A Life Less Ordinary
+6	comedy	NULL	NULL	Excess Baggage
+6	comedy	NULL	NULL	Home Alone 3
+6	comedy	NULL	NULL	Spice World the Movie
+6	comedy	NULL	NULL	Picture Perfect
+6	comedy	NULL	NULL	Bring Me the Head of Mavis Davis
+6	comedy	NULL	NULL	In &amp; Out
+6	comedy	NULL	NULL	Good Burger
+6	comedy	NULL	NULL	Wag the Dog
+6	comedy	NULL	NULL	Mouse Hunt
+6	comedy	NULL	NULL	Deconstructing Harry
+6	comedy	NULL	NULL	The Big Lebowski
+6	comedy	NULL	NULL	Sliding Doors
+6	comedy	NULL	NULL	The Man Who Knew too Little
+6	comedy	NULL	NULL	Blues Brothers 2000
+6	comedy	NULL	NULL	Mr. Magoo
+6	comedy	NULL	NULL	The James Gang
+6	comedy	NULL	NULL	Wedding Singer
+6	comedy	NULL	NULL	Stiff Upper Lips
+6	comedy	NULL	NULL	Girl's night
+6	comedy	NULL	NULL	Six Days Seven Nights
+6	comedy	NULL	NULL	The Castle
+6	comedy	NULL	NULL	Doctor Dolittle
+6	comedy	NULL	NULL	Mr. Nice Guy
+6	comedy	NULL	NULL	Way Out West
+6	comedy	1	les films du losange	There's Something about Mary
+6	comedy	NULL	NULL	The Last days of disco
+6	comedy	NULL	NULL	Divorcing Jack
+6	comedy	NULL	NULL	Air Bud
+6	comedy	NULL	NULL	Neil Simon's The Odd Couple II
+6	comedy	NULL	NULL	Slums of Beverly Hills
+6	comedy	NULL	NULL	The Philadelphia Story
+6	comedy	NULL	NULL	The Man With Rain in his Shoes
+6	comedy	NULL	NULL	Babe - Pig in the City
+6	comedy	NULL	NULL	The Parent Trap
+6	comedy	NULL	NULL	Madeline
+6	comedy	NULL	NULL	My Giant
+6	comedy	NULL	NULL	Don't go breaking my heart
+6	comedy	NULL	NULL	Holy Man
+6	comedy	NULL	NULL	You've Got Mail
+6	comedy	NULL	NULL	A Night at the Roxbury
+7	fantasy	NULL	NULL	Gremlins 2, the New Batch
+7	fantasy	NULL	NULL	Ghost
+7	fantasy	NULL	NULL	Stalker
+7	fantasy	NULL	NULL	Star Trek VI: The Undiscovered Country
+7	fantasy	NULL	NULL	Bram Stoker's Dracula
+7	fantasy	NULL	NULL	The Crow
+7	fantasy	NULL	NULL	Batman Forever
+7	fantasy	NULL	NULL	Species
+7	fantasy	NULL	NULL	From Dusk till Dawn
+7	fantasy	1	les films du losange	Independence Day
+7	fantasy	NULL	NULL	The Crow: City of Angels
+7	fantasy	NULL	NULL	The Adventures of Pinocchio
+7	fantasy	NULL	NULL	Frighteners
+7	fantasy	NULL	NULL	Lost Highway
+7	fantasy	NULL	NULL	Event Horizon
+7	fantasy	1	les films du losange	Alien : Resurrection
+7	fantasy	NULL	NULL	The Borrowers
+7	fantasy	NULL	NULL	Starship Troopers
+7	fantasy	NULL	NULL	The Devil's Advocate
+7	fantasy	NULL	NULL	FairyTale: A True Story
+7	fantasy	NULL	NULL	Sphere
+7	fantasy	NULL	NULL	Dark City
+7	fantasy	NULL	NULL	Wishmaster
+7	fantasy	NULL	NULL	City of Angels
+7	fantasy	NULL	NULL	Mimic
+7	fantasy	NULL	NULL	Godzilla
+7	fantasy	NULL	NULL	Lost in Space
+7	fantasy	NULL	NULL	The X Files
+7	fantasy	NULL	NULL	Species II
+7	fantasy	NULL	NULL	Cube
+7	fantasy	NULL	NULL	Small Soldiers
+7	fantasy	NULL	NULL	Blade
+7	fantasy	NULL	NULL	The Wisdom of Crocodiles
+7	fantasy	NULL	NULL	What Dreams May Come
+7	fantasy	NULL	NULL	Meet Joe Black
+7	fantasy	NULL	NULL	Practical Magic
+7	fantasy	NULL	NULL	Jack Frost
+7	fantasy	NULL	NULL	Pleasantville
+8	action	NULL	NULL	Romper Stomper
+8	action	NULL	NULL	Money Talks
+8	action	NULL	NULL	The Replacement Killers
+8	action	NULL	NULL	Point Blank
+8	action	NULL	NULL	Lethal weapon 4
+8	action	NULL	NULL	Out of Sight
