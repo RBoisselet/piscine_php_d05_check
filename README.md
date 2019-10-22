@@ -21,6 +21,7 @@ mysql.bin: [Warning] Using a password on the command line interface can be insec
 
 ## Exemple output
 
+ ```bash
  ex:	ex06.sql
  mysql.bin: [Warning] Using a password on the command line interface can be insecure.
 
@@ -33,7 +34,7 @@ mysql.bin: [Warning] Using a password on the command line interface can be insec
  ex:	ex09.sql
  mysql.bin: [Warning] Using a password on the command line interface can be insecure.
 
- <span style="color:red">ex:	ex10.sql</span>
+ ex:	ex10.sql
  mysql.bin: [Warning] Using a password on the command line interface can be insecure.
  0a1 > diff exemple
  ex:	ex11.sql
@@ -68,3 +69,4 @@ mysql.bin: [Warning] Using a password on the command line interface can be insec
 
  ex:	ex21.sql
  mysql.bin: [Warning] Using a password on the command line interface can be insecure.
+```
