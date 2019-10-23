@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 name
 united pictures international uk
 paramount pictures uk
 buena vista international uk
 universal international pictures
 punk distribution
+=======
+id_distrib	name	phone_number	address	zipcode	city	country
+62	showbox media group	0194205118	NULL	NULL	NULL	NULL
+63	united pictures international uk	0398187864	NULL	NULL	NULL	NULL
+64	paramount pictures uk	0127074098	NULL	NULL	NULL	NULL
+65	buena vista international uk	0391010431	NULL	NULL	NULL	NULL
+66	universal international pictures	0142892701	NULL	NULL	NULL	NULL
+>>>>>>> 8e48794690b78177d3f3fbc876ddaa57ed55fae4
