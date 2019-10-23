@@ -1,22 +1,14 @@
 Compares the output of your commands with mine (absolutely no guarantee that mine are correct or better. If you have diffs I'd like to know it, my day might be lame). **From the english subject - SELECT queries (ex06 - ex21) only**
 
 ## Requirements
-<<<<<<< HEAD
 You must have set your path to the right mysqli.bin (i.e. 'Users/rboissel/mamp/mysql/bin')
-=======
-You must have set your path to the right mysqli.bin
->>>>>>> 8e48794690b78177d3f3fbc876ddaa57ed55fae4
 
 ## Usage
 
 In you day repo (make a copy beforehand) :
 
 ```bash
-<<<<<<< HEAD
-git clone https://github.com/RBoisselet/piscine_php_d05_check.git && piscine_php_d05_check/setup
-=======
 git clone https://git.42l.fr/rboisselet/piscine_php_d05_check.git && piscine_php_d05_check/setup
->>>>>>> 8e48794690b78177d3f3fbc876ddaa57ed55fae4
 
 ./sql_test [your_mysql_login] [your_mysql_password] [your_42_login (i.e. 'rboissel')]
 ```
@@ -77,8 +69,4 @@ mysql.bin: [Warning] Using a password on the command line interface can be insec
 
  ex:	ex21.sql
  mysql.bin: [Warning] Using a password on the command line interface can be insecure.
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> 8e48794690b78177d3f3fbc876ddaa57ed55fae4
